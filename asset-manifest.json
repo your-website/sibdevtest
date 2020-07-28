@@ -1,22 +1,31 @@
 {
   "files": {
-    "main.css": "/todo/static/css/main.fb225ce2.chunk.css",
-    "main.js": "/todo/static/js/main.14fbc5aa.chunk.js",
-    "main.js.map": "/todo/static/js/main.14fbc5aa.chunk.js.map",
-    "runtime-main.js": "/todo/static/js/runtime-main.2a8ec137.js",
-    "runtime-main.js.map": "/todo/static/js/runtime-main.2a8ec137.js.map",
-    "static/js/2.d416d9a6.chunk.js": "/todo/static/js/2.d416d9a6.chunk.js",
-    "static/js/2.d416d9a6.chunk.js.map": "/todo/static/js/2.d416d9a6.chunk.js.map",
-    "index.html": "/todo/index.html",
-    "precache-manifest.a4a0942b1ccd8b11dadffa1612893cbc.js": "/todo/precache-manifest.a4a0942b1ccd8b11dadffa1612893cbc.js",
-    "service-worker.js": "/todo/service-worker.js",
-    "static/css/main.fb225ce2.chunk.css.map": "/todo/static/css/main.fb225ce2.chunk.css.map",
-    "static/js/2.d416d9a6.chunk.js.LICENSE.txt": "/todo/static/js/2.d416d9a6.chunk.js.LICENSE.txt"
+    "main.css": "/sibdevtest/static/css/main.9f5d69d0.chunk.css",
+    "main.js": "/sibdevtest/static/js/main.eeaef0bc.chunk.js",
+    "main.js.map": "/sibdevtest/static/js/main.eeaef0bc.chunk.js.map",
+    "runtime-main.js": "/sibdevtest/static/js/runtime-main.0bd16fab.js",
+    "runtime-main.js.map": "/sibdevtest/static/js/runtime-main.0bd16fab.js.map",
+    "static/js/2.e6224aca.chunk.js": "/sibdevtest/static/js/2.e6224aca.chunk.js",
+    "static/js/2.e6224aca.chunk.js.map": "/sibdevtest/static/js/2.e6224aca.chunk.js.map",
+    "index.html": "/sibdevtest/index.html",
+    "precache-manifest.ce2b88f2e66b84969fabc105eb39c98f.js": "/sibdevtest/precache-manifest.ce2b88f2e66b84969fabc105eb39c98f.js",
+    "service-worker.js": "/sibdevtest/service-worker.js",
+    "static/css/main.9f5d69d0.chunk.css.map": "/sibdevtest/static/css/main.9f5d69d0.chunk.css.map",
+    "static/js/2.e6224aca.chunk.js.LICENSE.txt": "/sibdevtest/static/js/2.e6224aca.chunk.js.LICENSE.txt",
+    "static/media/roboto.css": "/sibdevtest/static/media/Robotothinitalic.f31f3151.woff2",
+    "static/media/image_2.png": "/sibdevtest/static/media/image_2.05426455.png",
+    "static/media/image_3.png": "/sibdevtest/static/media/image_3.114ccde7.png",
+    "static/media/image_4.png": "/sibdevtest/static/media/image_4.e52e6689.png",
+    "static/media/image_5.png": "/sibdevtest/static/media/image_5.271a8e6c.png",
+    "static/media/image_6.png": "/sibdevtest/static/media/image_6.d1e0f413.png",
+    "static/media/image_7.png": "/sibdevtest/static/media/image_7.cafe7035.png",
+    "static/media/image_8.png": "/sibdevtest/static/media/image_8.b57130b1.png",
+    "static/media/opensans.css": "/sibdevtest/static/media/opensanssemibolditalic.9e4f913f.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.2a8ec137.js",
-    "static/js/2.d416d9a6.chunk.js",
-    "static/css/main.fb225ce2.chunk.css",
-    "static/js/main.14fbc5aa.chunk.js"
+    "static/js/runtime-main.0bd16fab.js",
+    "static/js/2.e6224aca.chunk.js",
+    "static/css/main.9f5d69d0.chunk.css",
+    "static/js/main.eeaef0bc.chunk.js"
   ]
 }
