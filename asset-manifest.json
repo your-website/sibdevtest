@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sibdevtest/static/css/main.9f5d69d0.chunk.css",
+    "main.css": "/sibdevtest/static/css/main.459673b8.chunk.css",
     "main.js": "/sibdevtest/static/js/main.eeaef0bc.chunk.js",
     "main.js.map": "/sibdevtest/static/js/main.eeaef0bc.chunk.js.map",
     "runtime-main.js": "/sibdevtest/static/js/runtime-main.0bd16fab.js",
@@ -8,9 +8,9 @@
     "static/js/2.e6224aca.chunk.js": "/sibdevtest/static/js/2.e6224aca.chunk.js",
     "static/js/2.e6224aca.chunk.js.map": "/sibdevtest/static/js/2.e6224aca.chunk.js.map",
     "index.html": "/sibdevtest/index.html",
-    "precache-manifest.ce2b88f2e66b84969fabc105eb39c98f.js": "/sibdevtest/precache-manifest.ce2b88f2e66b84969fabc105eb39c98f.js",
+    "precache-manifest.7285f0592670dcec96a4583df519b0ca.js": "/sibdevtest/precache-manifest.7285f0592670dcec96a4583df519b0ca.js",
     "service-worker.js": "/sibdevtest/service-worker.js",
-    "static/css/main.9f5d69d0.chunk.css.map": "/sibdevtest/static/css/main.9f5d69d0.chunk.css.map",
+    "static/css/main.459673b8.chunk.css.map": "/sibdevtest/static/css/main.459673b8.chunk.css.map",
     "static/js/2.e6224aca.chunk.js.LICENSE.txt": "/sibdevtest/static/js/2.e6224aca.chunk.js.LICENSE.txt",
     "static/media/roboto.css": "/sibdevtest/static/media/Robotothinitalic.f31f3151.woff2",
     "static/media/image_2.png": "/sibdevtest/static/media/image_2.05426455.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.0bd16fab.js",
     "static/js/2.e6224aca.chunk.js",
-    "static/css/main.9f5d69d0.chunk.css",
+    "static/css/main.459673b8.chunk.css",
     "static/js/main.eeaef0bc.chunk.js"
   ]
 }
