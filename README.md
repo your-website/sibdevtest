@@ -1,6 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Test
 
-## ToDo Application
+## npm run start - просмотр в реальном времени
 
+## npm run build - собрать проект
+
+## npm run deploy - залить на gh-pages
 
 ### Ссылка на сайт https://your-website.github.io/sibdevtest/
