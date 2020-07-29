@@ -7,7 +7,7 @@ const AppSideBarLink = ({ data }) => {
         if (name === undefined) {
             return (
                 <li  key={ i + 1 } className="sidebar__element">
-                    <a href="/" className="sidebar__logo">
+                    <a href="#" className="sidebar__logo">
                         { img }
                     </a>
                 </li>
@@ -15,11 +15,11 @@ const AppSideBarLink = ({ data }) => {
         } else
         return (
             <li  key={ name } className="sidebar__element">
-                <a href="/" className="sidebar__link">
+                <a href="#" className="sidebar__link">
                     { img }
                     { name ? name : null }
                 </a>
-                <a href="/" className="sidebar__link-opacity">
+                <a href="#" className="sidebar__link-opacity">
                     { img }
                 </a>
             </li>

@@ -179,6 +179,30 @@ class App extends Component {
     ]
   };
 
+  updateDimensions() {
+    const sideBar = document.querySelector('.sidebar');
+    if (window.innerWidth > 768) {
+      sideBar.style.width = '240px';
+    } else {
+      sideBar.style.width = '100px';
+    }
+
+    if (window.innerWidth > 470) {
+      sideBar.style.transform = 'translateX(0)'
+    } else {
+      sideBar.style.transform = 'translateX(-95px)'
+    }
+  }
+
+
+  componentDidMount() {
+    window.addEventListener("resize", this.updateDimensions);
+  }
+
+  componentWillUnmount() {
+  window.removeEventListener("resize", this.updateDimensions);
+  }
+
   onSearchChange = (term) => {
     this.setState({ term });
   };
@@ -199,6 +223,7 @@ class App extends Component {
   };
 
   render() {
+
     const { term, dataCard, dataSideBar, burger } = this.state;
 
     const visibleItems = this.searchTodo(dataCard, term);

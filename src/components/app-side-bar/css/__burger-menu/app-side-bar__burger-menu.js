@@ -43,13 +43,13 @@ class AppSideBarBurgerMenu extends Component {
         data.forEach(element => {
             element.style.display = style;
         });
-
-
     };
 
     render() {
 
-        if (this.state.burger === false) {
+        const { burger } = this.props;
+
+        if (burger === false) {
             return (
                 <div onClick={ this.burgerChange } className="sidebar__burger-menu">
                     <div className="sidebar__burger-menu-line sidebar__burger-menu-line_one-close"></div>
